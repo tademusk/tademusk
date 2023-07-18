@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @tademusk (Tadele Kelayu) And I am currently living in Ethiopia
-- 👀 I’m interested in ...
+- 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning software engineering at Arba Minch University
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... telegram:- https://t.me/KalDas_A , instagram :- tademusk 
+- 💞️ I’m looking to collaborate on MERN Stack. 
+- 📫 How to reach me ... telegram:- https://t.me/KalDas_A , instagram :- @tade_kelayu
+- fun fact --- I use tab over space
 
 <!---
 tademusk/tademusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
