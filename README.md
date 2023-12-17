@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tademusk (Tadele Kelayu) And I am currently living in Ethiopia
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning software engineering at Arba Minch University
-- 💞️ I’m looking to collaborate on MERN Stack. 
+- 💞️ I’m looking to collaborate on React.js, Next.js, TailwindCSS, Django Stack. 
 - 📫 How to reach me ... telegram:- https://t.me/KalDas_A , instagram :- @tade_kelayu
 - fun fact --- I use tab over space
 
